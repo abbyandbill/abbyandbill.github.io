@@ -1,3 +1,6 @@
+![engagement photo](/abby_bill.jpg)
+>*near Adler Planetarium, circa 2023 Nov*
+
 Hello friends, we are delighted to announce that we are hosting our wedding ceremony and reception on August 31st, 2024 in Chicago, with a welcome party on the afternoon of August 30th. We'd be honored by your presence. More details to come in the coming months. 
 
 
