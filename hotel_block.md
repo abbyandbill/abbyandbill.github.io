@@ -10,3 +10,7 @@ Cut off date for the block rate is 2024/xxx.
 
 3. Park Hyatt Chicago - 800 N Michigan Ave - USD/night
 Cut off date for the block rate is 2024/xxx.
+
+--
+
+Airbnb is another option. In terms of neighborhoods, we find River North, Gold Coast (where the 3 hotels are), Old Town, Lincoln Park, Lake View East (where we live) all to be safe and close-ish to the main tourist attractions. 
