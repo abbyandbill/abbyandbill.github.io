@@ -2,8 +2,6 @@
 title: Where to stay in Chicago
 ---
 
-All 
-
 1. The [Westin](https://www.marriott.com/event-reservations/reservation-link.mi?id=1706111245071&key=GRP&app=resvlink) Michigan Avenue Chicago - 909 North Michigan Ave - 206 USD/night
 Cut off date for the block rate is 2024/8/1.
 
