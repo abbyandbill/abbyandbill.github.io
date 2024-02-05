@@ -15,4 +15,7 @@ Cut off date for the block rate is 2024/07/29.
 
 Airbnb is another option. For neighborhoods, we find River North, Gold Coast (where the 3 hotels are), Old Town, Lincoln Park, Lakeview East (where we live) all to be safe and close-ish to the main tourist attractions. 
 
+You don't have to take our word for it:
 
+![hoodmap](./photos/hoodmap.png)
+>*[reddit source](https://www.reddit.com/r/chicago/comments/1874hcf/ok_who_made_his_hilarious_map_describing_chicagos/)*
