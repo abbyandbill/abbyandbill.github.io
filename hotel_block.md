@@ -17,5 +17,5 @@ Airbnb is another option. For neighborhoods, we find River North, Gold Coast (wh
 
 You don't have to take our word for it:
 
-![hoodmap](./photos/hoodmap.png)
+![hoodmap](./photos/hoodmap.PNG)
 >*[reddit source](https://www.reddit.com/r/chicago/comments/1874hcf/ok_who_made_his_hilarious_map_describing_chicagos/)*
