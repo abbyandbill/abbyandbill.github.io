@@ -1,4 +1,4 @@
-![engagement photo](/abby_bill.jpg)
+![engagement photo](./photos/abby_bill.jpg)
 >*near Adler Planetarium, 2023 Nov*
 
 Hello friends and family, 
