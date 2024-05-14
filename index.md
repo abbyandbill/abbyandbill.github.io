@@ -7,4 +7,6 @@ We are delighted to announce that we are hosting our wedding ceremony and recept
 
 We have secured block rates at a few [hotels](/hotel_block.md) if you're interested.
 
-We'll update the website in the next few months with a list of touristy things that we've enjoyed in our 2.5 years in this lovely city, as well as more details about the wedding.
+We mailed our physical wedding invites on May 14th, which contains a QR code to RSVP. Just in case, here is the link to the Google [form](https://docs.google.com/forms/d/1qKb-qkMPHtPiIATk7a7MEcVVhMSMDfSrbLthg31Gu0Q/)
+
+For out-of-town guests who need some ideas on what to do for the remainder of the long weekend, we wrote down some of our favorite [places/things](/fun.md) to do in Chicago. 
