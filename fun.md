@@ -3,7 +3,7 @@ title: What to do in Chicago
 ---
 
 1. Millenium Park <br>
-The iconic Cloud Gate (aka "the Bean"). It's been under construction for a while, but is now open to public again!
+The iconic Cloud Gate (aka "the Bean"). It's been under construction for a while, but is now open to public again! Close to the bean/"Millennium Park" is a pretty touristy patch. You could check out Maggie Daly park (the BP Pedestrian Bridge is fun to walk). Further south, the North Rose Garden and the Buckingham Fountain are both worth a see. 
 <br> <img src="./photos/bean.JPG" alt="bean" height="300"/>
 
 2. Art Institute of Chicago <br>
@@ -11,28 +11,24 @@ Walking distance from Millenium Park. We are no artists, but have always had a g
 <br> <img src="./photos/art_inst.jpeg" alt="seismometer" height="300"/>
 
 3. Skydeck <br>
-Located in the 103rd floor of Willis Tower, featuring "the Ledge", a glass balcony extending 4.3 feet outside of the building. Here is Abby's brother Greg on said ledge. Greg will be doing us the honor of officiating our wedding.
+Located in the 103rd floor of Willis Tower, featuring "the Ledge", a glass balcony extending 4.3 feet outside of the building. This is not free, and reserving early can be cheaper.
 <br> <img src="./photos/skydeck.jpeg" alt="skydeck" height="300"/>
 
 4. Second City <br>
-Abby and Bill are big fans of "The Office", "Parks and Recreation", etc, and therefore always take friends who visit to an improv show. It has not disappointed. Here is a random photo we took.
+Abby and Bill are big fans of "The Office", "Parks and Recreation", etc, and therefore always take friends who visit to an improv show. It has not disappointed. Here is Abby's brother Greg on stage. Greg will be doing us the honor of officiating our wedding.
 <br> <img src="./photos/second_city.jpeg" alt="second city" height="300"/>
 
 5. Lakefront Trail <br>
-It's a long-winding trail adjacent to Lake Michigan, good for walking, running, and biking. We've gone as far south as Hyde Park. Traveling northbound, you'll pass by some museums (including the Art Institute), the downtown area (aka "the Loop"), then some nice beaches.
+It's a long-winding trail adjacent to Lake Michigan, good for walking, running, and biking. We've gone as far south as Hyde Park. Traveling northbound, you'll pass by some museums (including the Art Institute), the downtown area (aka "the Loop"), then some nice beaches. It's really lively during the summertime.
 <br> <img src="./photos/lakefront.jpeg" alt="lakefront" height="300"/>
    
 6. Chicago Riverwalk <br>
-A nice ~1.5 mile walk right through the heart of downtown Chicago. We like to get onto the riverwalk from the stairs at Franklin and Wacker and walk east until hitting the lake, where it merges into the Lakefront trail. Also shown in the picture our friend Erik took is the Architecture Tour. We cannot recommend this enough - a great way to learn about the history of the city and stories behind the buildings.
+A nice ~1.5 mile walk right through the heart of downtown Chicago. We like to get onto the riverwalk from the stairs at Franklin and Wacker and walk east until hitting the lake, where it merges into the Lakefront trail. We cannot recommend this enough - a great way to learn about the history of the city and stories behind the buildings. This is a photo of Abby and our friend Tayler on a cold winter day, outside of the Wrigley Building.
 <br> <img src="./photos/riverwalk.jpeg" alt="wrigley" height="300"/>
 
 7. Diversey Driving Range <br>
 If you're into golf and want to get in a few swings, this place is a great option! Come early or late in the day during the summer to avoid waits. Please follow the sign and "beware of flying golf balls"
-<br>
-<video height="300" controls>
-  <source src="./photos/driving_range.MOV" type="video/quicktime">
-  Your browser does not support the video tag.
-</video>
+<br> <img src="./photos/golf.jpeg" alt="golf" height="300"/>
 
 9. Starbucks Reserve <br>
 One of the biggest Starbucks stores, located on Michigan Avenue. Apart from a broader selection of drinks, you can also watch various brewing processes. Bill was unable to discern between the 20$ siphon-brewed coffee and his 3.86$ tall pike place. Maybe you can do better!
