@@ -4,22 +4,22 @@ title: What to eat in Chicago
 
 Below are restaurants we have tried and liked!
 
-Pequods (deep dish pizzaz is a Chicago signature; we prefer this local joint over more commercialized spots like Lou Malnati's or Giordano's which are also fine choices) 
+1. **Pequods** (deep dish pizza is a Chicago signature; we prefer this local joint over more commercialized spots like Lou Malnati's or Giordano's which are also fine choices) 
 
-Portillo's (known for Chicago hot dogs and Italian beef)
+2. **Portillo's** (known for Chicago hot dogs and Italian beef)
 
-The Purple Pig (Mediterranean) one of our go-to's for when friends visit. Supposedly the most reviewed restaurant in Chicago. 
+3. **The Purple Pig** (Mediterranean) one of our go-to's for when friends visit. Supposedly, it's the most reviewed restaurant in Chicago. 
 
-Bazaar Meat (Google says Steakhouse, but really a lot more) by a celebrity chef Jose Andres. Has a nice view of the Chicago River.
+4. **Bazaar Meat** (Google says Steakhouse, but it's really a lot more) by celebrity chef Jose Andres, and has a nice view of the Chicago River.
 
-Bar Mar (Seafood) same chef, right downstairs from Bazaar Meat
+5. **Bar Mar** (Seafood) same chef, right downstairs from Bazaar Meat
 
-Gibson Italia (Steak + Italian) Bill's manager had supposedly gone there for his birthday over the last ten years; great view of the Chicago river
+6. **Gibson Italia** (Steak + Italian) Bill's manager had gone there for his birthday over the last ten years; good view of the Chicago river
 
-Kasama (Filipino) lunch is popular/quick and dinner is a tasting menu
+7. **Kasama** (Filipino) lunch is popular (might be a line) and dinner is a tasting menu
 
-3 Arts Club Cafe (American) really nice quiet ambiance, and is on the bottom floor of a five-storied furniture store so we usually take a walk afterwards
+8. **Three Arts Club Cafe** (American) really nice ambiance, and is on the bottom floor of a five-storied furniture store so we usually take a walk afterwards
 
-Prime and Provision (steak/American) 
+9. **Prime and Provision** (steak/American) 
 
-places in Chinatown (QXY, MCCB, Wentworth, Wing Yip Seafood)
+10. places in Chinatown (**QXY** - dumplings, **MCCB** - Chinese/Taiwanese, **Wentworth** - Canto-style, **JM Seafood** - Canto-style)
