@@ -10,7 +10,7 @@ We have secured block rates at a few [hotels](/hotel_block.md) if you're interes
 
 We mailed our physical wedding invites on May 14th, which contains a QR code to RSVP. Here is the link to the [Google form](https://docs.google.com/forms/d/1qKb-qkMPHtPiIATk7a7MEcVVhMSMDfSrbLthg31Gu0Q/) just in case. TL;DR <br>
 &nbsp; &nbsp; **8/30 Welcome Party**: Chicago River Cruise with Hors D'Oeuvres. Board at 455 N Cityfront Plaza Dr between 3:30-4:30pm, sailing is 4:30-6:00pm.<br>
-&nbsp; &nbsp; **8/31 Wedding Ceremony, Reception**: Ceremoney starts at the Honeycomb 4:00pm, with cocktail and dinner at the North Pond<br>
+&nbsp; &nbsp; **8/31 Wedding Day**: Ceremony starts promptly at the Honeycomb 4:00pm, immediately followed by cocktails and dinner at North Pond Restaurant<br>
 We'll have a bus helping with transport on 8/31, more details about this when it's a week away.
 
 For out-of-town guests who could use some ideas on what to do for the remainder of the long weekend, we wrote down some of our favorite [things to do](/fun.md) and [things to eat](/food.md) in Chicago. 
